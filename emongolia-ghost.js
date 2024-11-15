@@ -4,8 +4,8 @@ function login() {
     var code1 = document.getElementById("code1").value;
     var code2 = document.getElementById("code2").value;
 
-    if(code1 === "З" && code2 == "Г"){
-        if (username === "02222712" && password === "Jamsran@0227") {
+    if(code1 === "У" && code2 == "Ж"){
+        if (username === "02252644" && password === "Misheel@0526") {
             window.location.href = "./emongoliaPHP.html";
         } else {
             
